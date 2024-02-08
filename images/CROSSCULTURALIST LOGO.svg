@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161.27 44.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-family: SFCompact-Regular, 'SF Compact';
+        font-size: 19px;
+        font-variation-settings: 'opsz' 19, 'wght' 457;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-2" transform="translate(11.79 25.56) rotate(-20.45)"><tspan x="0" y="0">C</tspan></text>
+      <text class="cls-2" transform="translate(22.43 21.7) rotate(-16.08)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-2" transform="translate(28.95 19.75) rotate(-13.31)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-2" transform="translate(38.72 17.38) rotate(-8.38)"><tspan x="0" y="0">s</tspan></text>
+      <text class="cls-2" transform="translate(47.48 16.01) rotate(-1.79)"><tspan x="0" y="0">s</tspan></text>
+      <text class="cls-2" transform="translate(56.24 15.62) rotate(6.14)"><tspan x="0" y="0">C</tspan></text>
+      <text class="cls-2" transform="translate(67.41 16.84) rotate(12.37)"><tspan x="0" y="0">u</tspan></text>
+      <text class="cls-2" transform="translate(77.75 19.18) rotate(15.21)"><tspan x="0" y="0">l</tspan></text>
+      <text class="cls-2" transform="translate(82.16 20.37) rotate(16.55)"><tspan x="0" y="0">t</tspan></text>
+      <text class="cls-2" transform="translate(88.53 22.26) rotate(17.36)"><tspan x="0" y="0">u</tspan></text>
+      <text class="cls-2" transform="translate(98.77 25.47) rotate(16.67)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-2" transform="translate(105.78 27.63) rotate(14.01)"><tspan x="0" y="0">a</tspan></text>
+      <text class="cls-2" transform="translate(115.86 30.07) rotate(10.63)"><tspan x="0" y="0">l</tspan></text>
+      <text class="cls-2" transform="translate(120.85 31.02) rotate(7.7)"><tspan x="0" y="0">i</tspan></text>
+      <text class="cls-2" transform="translate(126.56 31.89) rotate(2.21)"><tspan x="0" y="0">s</tspan></text>
+      <text class="cls-2" transform="translate(136.9 32.18) rotate(-5.95)"><tspan x="0" y="0">t</tspan></text>
+      <path class="cls-1" d="m22.78,25.94c8.55-.84,17.36-3.28,26.19-5.22l15.41-.87c31.36,3.64,62.73,25.29,93.71,11.79"/>
+      <path class="cls-3" d="m154.62,33.41c-1.6-1.05-1.82-1.81-1.78-2.27.2-2.18,6.85-3.11,8.26-3.3"/>
+      <path class="cls-3" d="m153.75,31.74c.41,1.87,1.04,2.35,1.48,2.47,2.1.59,5.36-5.28,6.04-6.53"/>
+    </g>
+  </g>
+</svg>
